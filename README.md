@@ -1,5 +1,7 @@
 # The worlds first container network manager
-## Development is a work in progress, please follow us on social media for updates (socials are in the footer of our website)
+Development is a work in progress, please follow us on social media for updates (socials are in the footer of our website)
+  
+  
   
 # Why Use SkiffUI
 SkiffUI provides the first easy to use, Drag-and-Drop user interface for modifying, or networking containers after creation. SkiffUI currently supports only Docker but could easily be expanded to interact with Docker Swarms and Kubernetes clusters later on.
