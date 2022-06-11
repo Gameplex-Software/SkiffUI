@@ -1,7 +1,7 @@
 # The worlds first container network manager
 ## Development is a work in progress, please follow us on social media for updates (socials are in the footer of our website)
 
-[Visit our company website](https://gameplex-software.github.io/)
+[Visit our company website](https://gameplexsoftware.com)
 
 [SkiffUI Website](https://skiffdev.gameplexsoftware.com)
 
